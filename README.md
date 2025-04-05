@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Japheth Kiprono @rokki74
 - 👀 I’m interested in software development and web development...
-- 🌱 I’m currently taking a course on computer science
+- 🌱 I’m currently taking a course on computer science and i'm a full stack developer but i tend to be linient on backend
 - 💞️ I’m looking to collaborate on software development and in other language applications especially java and c#
 - 📫 How to reach me  ratemojapheth85@gmail.com 
 - 😄 Pronouns: 
