@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Japheth Kiprono @rokki74
 - 👀 I’m interested in software development and web development...
 - 🌱 I’m currently taking a course on computer science
-- 💞️ I’m looking to collaborate on software development and in other language applications such as java and c#
+- 💞️ I’m looking to collaborate on software development and in other language applications especially java and c#
 - 📫 How to reach me  ratemojapheth85@gmail.com 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
