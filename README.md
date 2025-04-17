@@ -2,6 +2,7 @@
 I'm a full-stack developer who's still leveling up, currently pursuing a Bachelor's in Applied Computer Science at Daystar University. I already hold a Diploma in Computer Science, and I’m passionate about building clean, responsive applications—especially on the backend (where I feel most at home!).
 
 🛠️ Tech I Work With
+
 Languages & Frameworks: . ⚙️ Java, Spring Boot, Node.js
                         . 🖥️ React.js, Flutter
 
