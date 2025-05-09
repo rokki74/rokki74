@@ -13,7 +13,7 @@ AI/ML: 🤖 AI/ML Exploring LangChain.js and integrating AI into real-world apps
 
 Others: C#, FastApi, and always up for learning more!
 
-💡 Interests
+💡 Interests:
 
 👀 Software & Web Development (especially backend-heavy projects)
 
