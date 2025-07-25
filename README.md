@@ -25,7 +25,7 @@ Others: C# and always up for learning more!
 
 ⚡ Fun Fact
 
-My first pet was a dog—but it didn’t survive where I’m from... so I replaced it with a PC. We've been inseparable since. 😄
+I replaced my pet with a PC. We've been inseparable since. 😄
 
 🌐 Let's Connect
 
