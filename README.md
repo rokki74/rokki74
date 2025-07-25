@@ -4,14 +4,14 @@ I'm a full-stack developer who's still leveling up, currently pursuing a Bachelo
 
 🛠️ Tech I Work With
 
-Languages & Frameworks: . ⚙️ Java, Spring Boot, Node.js
+Languages & Frameworks: . ⚙️ Java, Spring Boot, Python, FastAPi, Node.js
                         . 🖥️ React.js, Flutter
 
 Databases: 💾 Databases MySQL, MongoDB
 
 AI/ML: 🤖 AI/ML Exploring LangChain.js and integrating AI into real-world apps
 
-Others: C#, FastApi, and always up for learning more!
+Others: C# and always up for learning more!
 
 💡 Interests:
 
