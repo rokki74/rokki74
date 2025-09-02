@@ -1,23 +1,23 @@
 👋 Hey there, I'm Japheth Kiprono Ratemo (@rokki74)
 
-I'm a full-stack developer who's always leveling up, currently pursuing a Bachelor's in Applied Computer Science at Daystar University. I already hold a Diploma in Computer Science, and I’m passionate about building clean, responsive applications—especially on the backend (where I feel most at home!).
+I'm a full-stack developer though 80% lenient on backend as I like interacting with how computers work in the backseen especially on the programming languages like C++, Java and python for modelling and having intuitions on machine learning. I prefer the former two as this aligns more with my passion and only use python to connect and model how I can implement systems instead, I might sometimes be forced to even learn integrating an llm to an application using python then go try implement the same in C++. This has made me learn and even disapprove my decisios often due to reduced abstractions and coding on the metal if I would say. Apart from doing research and quenching my curiosity I'm also currently pursuing a Bachelor's in Applied Computer Science and it's hard mixing them up but I love the challenge of doing real world stuff and studying. I already hold a Diploma in Computer Science, and I’m passionate about building clean, responsive applications—especially on the backend (where I feel most at home!).
 
 🛠️ Tech I Work With
 
-Languages & Frameworks: . ⚙️ Java, Spring Boot, Python, FastAPi, Node.js
+Languages & Frameworks: . ⚙️ C++, Java, Python, FastAPi, Node.js
                         . 🖥️ React.js, Flutter
 
 Databases: 💾 Databases MySQL, MongoDB
 
-AI/ML: 🤖 AI/ML Exploring LangChain.js and integrating AI into real-world apps
+AI/ML: 🤖 AI/ML Exploring LangChain, Langgraph and integrating AI into real-world apps
 
-Others: C# and always up for learning more!
+Others: C language and always up for learning more!
 
 💡 Interests:
 
 👀 Software & Web Development (especially backend-heavy projects)
 
-💞️ Collaborating on projects built with Java, C#, Node.js—or anything exciting!
+💞️ Collaborating on projects built with Java, C++,Python, Node.js—or anything exciting maybe assembly someday!
 
 🌍 Studying history, culture, and how war shapes global economies
 
@@ -25,7 +25,7 @@ Others: C# and always up for learning more!
 
 ⚡ Fun Fact
 
-I replaced my pet with a PC. We've been inseparable since. 😄
+I've always been curious how computers work even from my junior high school, so I tend to prefer low level stuffs and also machine learning models. I therefore started programming and we've been inseparable since. 😄
 
 🌐 Let's Connect
 
