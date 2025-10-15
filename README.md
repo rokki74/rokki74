@@ -5,7 +5,7 @@ I'm a full-stack developer though 80% lenient on backend as I like interacting w
 🛠️ Tech I Work With
 
 Languages & Frameworks: . ⚙️ C++, Java, Python, FastAPi, Node.js
-                        . 🖥️ React.js, Flutter
+                        . 🖥️ React.js
 
 Databases: 💾 Databases MySQL, MongoDB
 
