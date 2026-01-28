@@ -1,39 +1,78 @@
-👋 Hey there, I'm Japheth Kiprono Ratemo (@rokki74)
+# Hi there, I'm Japheth Kiprono Ratemo 👋
 
-I am a software engineer and aspiring to make real solutions for problems where they can efficiently fit. For my skills, i am 80% lenient on backend as I like interacting with how computers work in the backseen especially on the programming languages like C++, Java and python for modelling and having intuitions on machine learning to further enhance real world solutions to problems that need such. Most of the time i do things out of curiosity and the urge to leanr as many are the times i have for example learnt to integrate an llm into an application using python then go try implement the same in C++. This has made me learn and even disapprove my decisios often due to reduced abstractions and coding on the metal if I would say. Apart from doing research and quenching my curiosity I'm also currently pursuing a Bachelor's in Applied Computer Science and it's hard mixing them up but I love the challenge of keeping a balance and doing real things while studying. I already hold a Diploma in Computer Science, and I’m passionate about building clean, responsive applications—especially on the backend (where I feel most at home!).
+## Backend Engineer | Distributed Systems Enthusiast | Building Resilient Software
 
-🛠️ Tech I Work With
+I'm a passionate software developer from Nairobi, Kenya, specializing in building scalable, fault-tolerant backend systems. I believe in understanding systems from the ground up – which is why I built my own RDBMS to truly grasp database internals and including other different projects.
 
-Languages & Frameworks: . ⚙️ C++, Python, FastAPi,
-                        . 🖥️ React.js
+### 🔭 What I'm Building
 
-Databases: 💾 Databases MySQL
+- **Microservices architectures** with Spring Boot and FastAPI
+- **Event-driven systems** using Apache Kafka for asynchronous communication
+- **Resilient applications** with backpressure handling and circuit breaker patterns
+- **Containerized deployments** with Docker and CI/CD pipelines
 
-AI/ML: 🤖 AI/ML Exploring LangChain, Langgraph and integrating AI into real-world apps
+### 🛠️ Tech Stack
 
-Others: C language and always up for learning more!
+**Languages & Frameworks:**
+- Java (Spring Boot) – Primary expertise
+- Python (FastAPI) – Secondary focus
 
-💡 Interests:
+**Infrastructure & DevOps:**
+- PostgreSQL | Docker | Apache Kafka
+- GitHub Actions | CI/CD Pipelines
 
-👀 Software & Web Development (especially backend-heavy projects)
+**Core Competencies:**
+- Database internals (WAL, Buffer Pools, Transaction Management)
+- Microservices architecture & Distributed systems
+- Fault tolerance & Resilience patterns
+- Testing & TDD practices
 
-💞️ Collaborating on projects built with Java, C++,Python or anything exciting maybe assembly someday!
+### 🚀 Featured Projects
 
-🌍 Studying history, culture, and how war shapes global economies
+**[Custom RDBMS Implementation](link-to-repo)**
+Built a relational database from scratch to understand core internals:
+- Implemented page-based storage with slot management
+- Developed Write-Ahead Logging (WAL) for crash recovery
+- Engineered transaction management with ACID compliance
+- *Tech: Java, File I/O, Concurrency Control*
 
-📚 Novels, 🎧 Music, and 🌲 Forest bathing (yes, really)
+**[Smart Fitness & Wellness Platform](link-to-repo)**
+Microservices-based wellness platform with production-grade resilience:
+- Apache Kafka for event-driven architecture
+- Docker containerization for consistent deployments
+- Backpressure handling and circuit breakers
+- PostgreSQL optimization for analytics
+- *Tech: Spring Boot, FastAPI, Kafka, Docker, PostgreSQL*
 
-⚡ Fun Fact
+### 📚 Currently Learning
 
-I've always been curious how computers work even from my junior high school, so I tend to prefer low level stuffs and also machine learning models. I therefore started programming and we've been inseparable since. 😄
+- Advanced distributed systems patterns
+- System design at scale
+- Production debugging and observability
 
-🌐 Let's Connect
+### 🌱 Beyond Code
 
-   📧 Email: ratemojapheth85@gmail.com
+When I'm not building systems, you'll find me:
+- 🐄 Running my animal farm and exploring agricultural innovation
+- 🪵 Practicing carpentry and furniture making
+- 🤝 Connecting with diverse communities beyond tech
 
-   🔗 LinkedIn
+### 📫 Let's Connect
 
-   💼 My Portfolio
+- **Email:** ratemojapheth85@gmail.com
+- **LinkedIn:** [linkedin.com/in/japheth-kiprono](https://www.linkedin.com/in/japheth-kiprono)
+- **Portfolio:** [japhethratemo-portfolio.netlify.app](https://japhethratemo-portfolio.netlify.app/)
+- **Blog:** Coming soon – writing about database internals, resilience patterns, and microservices
+
+### 💡 Open to Opportunities
+
+I'm actively seeking backend engineering roles where I can contribute to building reliable, scalable systems while continuing to grow alongside talented teams. Particularly interested in fintech, agritech, and healthtech sectors in Kenya and remote opportunities.
+
+**Let's build something resilient together!**
+
+---
+
+⭐️ From [rokki74](https://github.com/rokki74)
 
 <!---
 rokki74/rokki74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
