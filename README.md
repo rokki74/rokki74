@@ -16,6 +16,7 @@ I'm a passionate software developer from Nairobi, Kenya, specializing in buildin
 **Languages & Frameworks:**
 - Java (Spring Boot) – Primary expertise
 - Python (FastAPI) – Secondary focus
+- Go
 
 **Infrastructure & DevOps:**
 - PostgreSQL | Docker | Apache Kafka
