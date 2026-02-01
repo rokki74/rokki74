@@ -36,7 +36,7 @@ Built a relational database from scratch to understand core internals:
 - Implemented page-based storage with slot management
 - Developed Write-Ahead Logging (WAL) for crash recovery
 - Engineered transaction management with ACID compliance
-- *Tech: Java, File I/O, Concurrency Control*
+- *Tech: File I/O, Concurrency Control*
 
 **[Smart Fitness & Wellness Platform](link-to-repo)**
 Microservices-based wellness platform with production-grade resilience:
@@ -44,7 +44,7 @@ Microservices-based wellness platform with production-grade resilience:
 - Docker containerization for consistent deployments
 - Backpressure handling and circuit breakers
 - PostgreSQL optimization for analytics
-- *Tech: Spring Boot, FastAPI, Kafka, Docker, PostgreSQL*
+- *Tech: Gin, FastAPI, Kafka, Docker, PostgreSQL*
 
 ### 📚 Currently Learning
 
