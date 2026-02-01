@@ -2,7 +2,7 @@
 
 ## Backend Engineer | Distributed Systems Enthusiast | Building Resilient Software
 
-I'm a passionate software developer from Nairobi, Kenya, specializing in building scalable, fault-tolerant backend systems. I believe in understanding systems from the ground up – which is why I built my own RDBMS to truly grasp database internals and including other different projects.
+I'm a passionate software developer specializing in building scalable, fault-tolerant backend systems. I believe in understanding systems from the ground up – which is why I built my own RDBMS to truly grasp database internals and including other different projects.
 
 ### 🔭 What I'm Building
 
