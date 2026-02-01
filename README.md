@@ -1,4 +1,4 @@
-# Hi there, I'm Japheth Kiprono Ratemo 👋
+# Hi there, I'm Japheth 👋
 
 ## Backend Engineer | Distributed Systems Enthusiast | Building Resilient Software
 
