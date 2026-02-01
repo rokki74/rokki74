@@ -14,6 +14,7 @@ I'm a passionate software developer specializing in building scalable, fault-tol
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
+- SQL
 - Python (FastAPI)
 - Go (Gin)
 - C and Rust
