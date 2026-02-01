@@ -16,8 +16,8 @@ I'm a passionate software developer specializing in building scalable, fault-tol
 **Languages & Frameworks:**
 - SQL
 - Java(Springboot) - Primary expertise
+- Go(Gin) - approaching mastery
 - Python
-- C and Rust - approaching mastery
 
 
 **Infrastructure & DevOps:**
