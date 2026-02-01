@@ -14,9 +14,10 @@ I'm a passionate software developer from Nairobi, Kenya, specializing in buildin
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- Java (Spring Boot) – Primary expertise
+- Go (Gin) – Primary expertise
 - Python (FastAPI) – Secondary focus
-- Go
+- C and Rust - approaching mastery
+
 
 **Infrastructure & DevOps:**
 - PostgreSQL | Docker | Apache Kafka
