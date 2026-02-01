@@ -14,9 +14,9 @@ I'm a passionate software developer specializing in building scalable, fault-tol
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- Go (Gin) – Primary expertise
-- Python (FastAPI) – Secondary focus
-- C and Rust - approaching mastery
+- Python (FastAPI)
+- Go (Gin)
+- C and Rust
 
 
 **Infrastructure & DevOps:**
