@@ -8,7 +8,7 @@ I'm a passionate software developer specializing in building scalable, fault-tol
 - Containerized deployments with Docker and CI/CD pipelines.
 
 1. My Tech Stack
-PROGRAMMING LANGUAGES:
+ PROGRAMMING LANGUAGES:
 - SQL
 - Java(Springboot) - Primary expertise
 - Golang - approaching mastery
@@ -16,12 +16,12 @@ PROGRAMMING LANGUAGES:
 - Python -Prototyping
 
 
-INFRASTRUCTURE AND DEVOPS:
+ INFRASTRUCTURE AND DEVOPS:
 - PostgreSQL | Docker | Apache Kafka
 - GitHub Actions | CI/CD Pipelines
 
 
-MY MOST VALUABLE SKILLS:
+ MY MOST VALUABLE SKILLS:
 - Database internals (WAL, Buffer Pools, Transaction Management)
 - Microservices architecture & Distributed systems
 - Fault tolerance & Resilience patterns
