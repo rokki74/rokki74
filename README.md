@@ -1,25 +1,21 @@
-Hi there!, I am Japheth
+Hi there!, I am Japheth a programmer
 
-I'm a software developer specializing in building scalable, fault-tolerant backend and digital solutions. I believe in understanding systems from the ground up – which is why I built a relational_database project to truly grasp database internals and associated logic and including other different projects Check my repo
+I have been constantly learning and building scalable while succeeding and failing everyday after the same goal learning the principles and logic behind reliable and fault-tolerant backend and digital solutions. I believe in understanding systems from the ground up – which is why I built a relational_database project to truly grasp database internals and associated logic and including other different projects Check my repo.
 
+So some of the stuff i encounter and build around are:
 - Microservices architectures with Spring Boot and Golang(GIN).
 - Event-driven systems using Apache Kafka for asynchronous communication.
 - Resilient applications with backpressure handling and circuit breaker patterns.
 - Containerized deployments with Docker and CI/CD pipelines.
 
-1. My Tech Stack
- PROGRAMMING LANGUAGES:
-- SQL
-- Java(Springboot) - Primary expertise
-- Golang - approaching mastery
-- C - gaining skill
-- Python -Prototyping
+You are welcome to colab with me or if you want you're free to read through my open source projects and all critics are welcome bytheway, you will find most of my projects using these stack:
+- SQL - for databases
+- Java(Springboot) - Primary expertise, well it was my first programming language always runs in my head, like i think in using it almost like swahili, but it's too heavy so                       golang comes in to help me build projects that are almost as efficient as it while maintaining my sanity!
+- Golang - approaching mastery so a high number of my repos are build using it, quite some practice right?
+- C - gaining skill, one way or the other i was going to land here such a nice skill but hard to gain no matter what
+- Python -Prototyping, could have used it elsewhere but proves to be the best in this niche
 
-
- INFRASTRUCTURE AND DEVOPS:
-- PostgreSQL | Docker | Apache Kafka
-- GitHub Actions | CI/CD Pipelines
-
+No time to waste so let's get done, next i shall tell my most valuable skills then what i do outside programming
 
  MY MOST VALUABLE SKILLS:
 - Database internals (WAL, Buffer Pools, Transaction Management)
@@ -28,7 +24,7 @@ I'm a software developer specializing in building scalable, fault-tolerant backe
 - Testing & TDD practices
 
 
-2. Currently Learning
+2. And Currently I am Learning
 - Advanced distributed systems patterns
 - System design at scale
 
@@ -45,9 +41,12 @@ Email: ratemojapheth85@gmail.com
 LinkedIn: [linkedin.com/in/japheth-kiprono](https://www.linkedin.com/in/japheth-kiprono)
 Portfolio: [japhethratemo-portfolio.netlify.app](https://japhethratemo-portfolio.netlify.app/)
 Blog: Coming soon – writing about database internals, resilience patterns, microservices and what i have
-Let's build wonderful things together.
+
+
+And before you leave i'm looking for people to collab with if you don't mind please reach me, also if you want to share experience i will be grateful and Thank You!
 
 I'm actively seeking backend engineering roles where I can contribute to building reliable, scalable systems while continuing to grow alongside talented teams including remote opportunities.
+Let's build wonderful things together.
 
 
 
