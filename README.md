@@ -1,6 +1,6 @@
 Hi there!, I am Japheth a programmer
 
-I have been constantly learning and building scalable while succeeding and failing everyday after the same goal learning the principles and logic behind reliable and fault-tolerant backend and digital solutions. I believe in understanding systems from the ground up – which is why I built a relational_database project to truly grasp database internals and associated logic and including other different projects Check my repo.
+I have been constantly learning and building scalable while succeeding and failing everyday chasing after the same goal learning the principles and logic behind reliable and fault-tolerant backend and digital solutions. I believe in understanding systems from the ground up – which is why I built a relational_database project to truly grasp database internals and associated logic and including other different projects Check my repo.
 
 So some of the stuff i encounter and build around are:
 - Microservices architectures with Spring Boot and Golang(GIN).
