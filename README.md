@@ -1,6 +1,6 @@
 Hi there!, I am Japheth
 
-I'm a passionate software developer specializing in building scalable, fault-tolerant backend systems. I believe in understanding systems from the ground up – which is why I built a relational_database project to truly grasp database internals and associated logic and including other different projects Check my repo
+I'm a software developer specializing in building scalable, fault-tolerant backend and digital solutions. I believe in understanding systems from the ground up – which is why I built a relational_database project to truly grasp database internals and associated logic and including other different projects Check my repo
 
 - Microservices architectures with Spring Boot and Golang(GIN).
 - Event-driven systems using Apache Kafka for asynchronous communication.
