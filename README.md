@@ -9,8 +9,8 @@ So some of the stuff i encounter and build around are:
 - Containerized deployments with Docker and CI/CD pipelines.
 
 You are welcome to colab with me or if you want you're free to read through my open source projects and all critics are welcome bytheway, you will find most of my projects using these stack:
-- SQL - for databases
-- Java(Springboot) - Primary expertise, well it was my first programming language always runs in my head, like i think in using it almost like swahili, but it's too heavy so                       golang comes in to help me build projects that are almost as efficient as it while maintaining my sanity!
+- SQL - for databases, Postgres variant to be specific.
+- Java(Springboot) - A very profound language, well it was my first programming language always runs in my head, like i think in using it almost like swahili, but it's too heavy so                       golang comes in to help me build projects that are almost as efficient as it while maintaining my sanity! . I read openJDK though and still learn java since it's a software like any other, Planning to contribute later once y understanding of systems grows better nothinggood as improving the tool you've been using and most crucial my first language.
 - Golang - approaching mastery so a high number of my repos are build using it, quite some practice right?
 - C - gaining skill, one way or the other i was going to land here such a nice skill but hard to gain no matter what
 - Python -Prototyping, could have used it elsewhere but proves to be the best in this niche
