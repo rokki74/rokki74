@@ -1,4 +1,4 @@
-Hi there!, I am Japheth a programmer
+Hi there!, I am Japheth
 
 I have been constantly learning and building scalable while succeeding and failing everyday chasing after the same goal learning the principles and logic behind reliable and efficient systems in existence and those i build. and digital solutions.
 
@@ -6,9 +6,8 @@ You are welcome to colab with me or if you want you're free to read through my o
 
 Beyond code,
 When I'm not building systems, you'll find me:
-- Running my animal farm and exploring agricultural innovation
+- Running animal farm and exploring agricultural innovation
 - Practicing carpentry and furniture making
-- Connecting with diverse communities beyond tech
 
 4. My contacts:
 Email: ratemojapheth85@gmail.com
