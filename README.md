@@ -13,7 +13,7 @@ When I'm not building systems, you'll find me:
 Email: ratemojapheth85@gmail.com
 LinkedIn: [linkedin.com/in/japheth-kiprono](https://www.linkedin.com/in/japheth-kiprono)
 Portfolio: [japhethratemo-portfolio.netlify.app](https://japhethratemo-portfolio.netlify.app/)
-Blog: Coming soon – writing about database internals, resilience patterns, microservices and what i have
+Blog: Coming soon – writing about database internals, resilience patterns
 
 
 <!---
