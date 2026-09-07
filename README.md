@@ -1,8 +1,8 @@
 Hi there!, I am Japheth
 
-I have been constantly learning and building scalable while succeeding and failing everyday chasing after the same goal learning the principles and logic behind reliable and efficient systems in existence and those i build. and digital solutions.
+I have been constantly learning and building scalable while succeeding and failing everyday chasing after the same goal learning the principles and logic behind reliable and efficient systems in existence and those i build plus digital solutions.
 
-You are welcome to colab with me or if you want you're free to read through my open source projects and all critics are welcome, you will find most of my projects using this stack:(Postgres, Java, C or Golang)
+You are welcome to colab with me or if you want you're free to read through my open source projects and all critics are welcome, you will find most of my projects using this stack:(Java, Rust or Golang, postgres incase of sql variants)
 
 Beyond code,
 When I'm not building systems, you'll find me:
